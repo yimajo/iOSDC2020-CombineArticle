@@ -14,7 +14,7 @@ AppleはWWDC19にてCombineフレームワークを発表しました。この�
 var a = 5
 let b = 10
 let flag = a > b
-print(a) // false が出力される
+print(flag) // false が出力される
 a = 20
 print(flag) // flagは当然変化せず false のまま出力
 ```
